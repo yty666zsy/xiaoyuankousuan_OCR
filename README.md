@@ -64,11 +64,11 @@ tesseract -v
 
    （1）上述的识别区域的位置
 
-   ![image-20241011102214659](C:\Users\yuzai\AppData\Roaming\Typora\typora-user-images\image-20241011102214659.png)
+   ![image-20241011102214659](https://github.com/yty666zsy/xiaoyuankousuan_OCR/blob/main/image1.png)
 
    （2）绘图坐标区域
 
-   ![image-20241011102335593](C:\Users\yuzai\AppData\Roaming\Typora\typora-user-images\image-20241011102335593.png)
+   ![image-20241011102335593](https://github.com/yty666zsy/xiaoyuankousuan_OCR/blob/main/image2.png)
 
    **3.运行main函数**
 
